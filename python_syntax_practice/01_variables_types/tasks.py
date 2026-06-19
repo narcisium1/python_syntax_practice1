@@ -13,8 +13,8 @@
 
 
 # TODO: решение
-name = "Daria"
-age = 18
+name = "Aman"
+age = 17
 city = "Moscow"
 print(name, age, city)
 
